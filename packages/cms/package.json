@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "basehub dev",
     "build": "basehub",
     "analyze": "basehub",
     "clean": "git clean -xdf .cache .turbo dist node_modules",
